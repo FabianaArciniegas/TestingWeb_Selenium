@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <button id="btn" onclick="FuncionAlert()">Haz Click Aqui</button>
+
+    <script>
+        function FuncionAlert(){
+            alert("Este es un ejemplo de un Alert");
+        }
+    </script>
+</body>
+</html>
